@@ -1,6 +1,6 @@
 # ChatUCF
 
-Android Application: Location-based Chatrooms on UCF campus
+Android Application: Location-based Chatrooms on UCF campus.
 Written in collaboration with Arjune Watane, Mitchell Crozier, and Rubba Ashwas for COP4331 Processes of Object-Oriented Software Design.
 This is a modified version of Kevin Gleason's example application from PubNub.
 

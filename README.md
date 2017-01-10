@@ -16,7 +16,7 @@ Features that were modified/added:<br>
     7. Geofencing–2 mile range <br>
     8. 200 character message limit <br>
     
-Main lesson learned from this project: utilization and integration of 3rd party API (PubNub Streaming Service, Facebook Login, Google Location Services). 
+Main lesson learned from this project: utilization and integration of 3rd party APIs (PubNub Streaming Service, Facebook Login, Google Location Services). 
 
 
 
